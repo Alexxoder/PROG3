@@ -1,0 +1,11 @@
+leer_grafo
+10 no-dirigido
+1: 2 .
+2: 1 3 .
+3: 2 4 .
+4: 3 5 .
+5: 4 6 .
+6: 5 .
+0: .
+cant_caminos 1
+Fin
